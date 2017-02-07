@@ -1,8 +1,8 @@
 # CBECS2012_DataViz
-## Data Visualization Final Project - Brett Kerrigan
+## Data Visualization Test - Brett Kerrigan
 
 ### Summmry
-Data from CBECS etc...
+Data from CBECS 2012 etc...
 
 ### Resources
 - d3 v4 and v3 API References, and the Version Changes log (https://github.com/d3)
