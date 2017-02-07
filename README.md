@@ -1,8 +1,8 @@
-# CBECS2012_DataViz
-## Data Visualization Test - Brett Kerrigan
+# CBECS 2012 Parallel Coordinates Data Vizualization
+## Brett Kerrigan
 
 ### Summary
-Data from CBECS 2012 etc...
+Data from Commercial Buildings Energy Consumption Survey (CBECS) 2012 etc...
 
 ### Resources
 - d3 v4 and v3 API References, and the Version Changes log (https://github.com/d3)
