@@ -1,7 +1,7 @@
 # CBECS2012_DataViz
 ## Data Visualization Test - Brett Kerrigan
 
-### Summmry
+### Summary
 Data from CBECS 2012 etc...
 
 ### Resources
